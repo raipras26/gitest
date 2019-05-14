@@ -1,5 +1,11 @@
 <<<<<<< Updated upstream
 This is actual 3rd commit operation
+<<<<<<< Updated upstream
 =======
 This is test entry for stash operation. In b/w 3rd commit
+>>>>>>> Stashed changes
+=======
+total 8
+-rw-r--r-- 1 rramalin rramalin  8 May 14 09:32 README.md
+-rw-r--r-- 1 rramalin rramalin 36 May 14 13:45 testfile.txt
 >>>>>>> Stashed changes
