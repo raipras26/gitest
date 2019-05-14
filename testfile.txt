@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 This is actual 3rd commit operation
+=======
+This is test entry for stash operation. In b/w 3rd commit
+>>>>>>> Stashed changes
