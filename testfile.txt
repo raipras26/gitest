@@ -1,3 +1,7 @@
 This is actual 3rd commit operation
 This is test entry for stash operation. In b/w 3rd commit
+<<<<<<< HEAD
 Apending new line to common file to test for conflicts during rebase, cherry pick & merge
+=======
+Append new line to test file from branch for conflict checks
+>>>>>>> 99e3b7b... Add new line to test file in branch
