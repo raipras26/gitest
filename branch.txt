@@ -1,1 +1,2 @@
 Add new file to branch
+Append new line to branch file. Second commit
