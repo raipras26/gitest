@@ -1,2 +1,3 @@
 new file for master branch. File2
 master line to verify after merge operation in branch
+Add second time chnages to Master for checking on conflicts
